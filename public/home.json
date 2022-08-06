@@ -1,0 +1,45 @@
+{
+  "mejoresvinos": [
+    {
+      "titulo": "Bardolino Tommasi",
+      "imagen": "https://i.ibb.co/Mh1xJds/image.jpg"
+    },
+    {
+      "titulo": "Chablis Louis Latour",
+      "imagen": "https://i.ibb.co/RvhpJgC/a0fe0e67-0193-418b-ab66-50040ed8834e.jpg"
+    },
+    {
+      "titulo": "Cousino Don Luis Chardonnay",
+      "imagen": "https://i.ibb.co/j8jpRzW/balche-cero-premium.jpg"
+    },
+    {
+      "titulo": "Castillo San Simón",
+      "imagen": "https://i.ibb.co/c2CmLg2/116875042-3064784963597527-8354137259552581395-n.jpg"
+    },
+    {
+      "titulo": "Finca Las Moras Pinot Grigio",
+      "imagen": "https://i.ibb.co/fCPrS7D/f-elconfidencial-com-original-ba4-116-f5f-ba4116f5f3c344c2930f554d3770da1c.jpg"
+    },
+    {
+      "titulo": "Oporto Barros Tawny",
+      "imagen": "https://cloudfront-eu-central-1.images.arcpublishing.com/larazon/SJE6FZNAW5HBPJUTYFAUW63YFI.JPG"
+    }
+  ],
+  "tiposvino": [
+    {
+      "nombre": "Vino Tinto",
+      "texto": "El vino tinto es un tipo de vino procedente mayormente de mostos de uvas tintas, con la elaboración pertinente para conseguir la difusión de la materia colorante que contienen los hollejos de la uva. En función del tiempo de envejecimiento que se realice en la barrica y en la botella, pueden obtenerse vinos jóvenes, crianzas, reservas o grandes reservas.",
+      "imagen": "https://static.imahe.cl/8689-large_default/copa-vino-tinto-470-cc-linea-reserva.jpg"
+    },
+    {
+      "nombre": "Vino Blanco",
+      "texto": "El vino blanco es una variedad de vino que puede oscilar entre las tonalidades amarillo pajizo, amarillo verdoso o amarillo oro. Se produce por la fermentación alcohólica de la pulpa no coloreada de uvas que pueden tener una piel de color blanco o negro, a fin de mantener un color amarillo transparente en el producto final. La amplia variedad de vinos blancos proviene de la gran cantidad de cepas y métodos de elaboración empleados, así como de la relación de azúcar residual.",
+      "imagen": "https://cdn.shopify.com/s/files/1/0104/4391/5319/products/VivantSet4CopasVinoBlanco_700x.jpg?v=1620664942"
+    },
+    {
+      "nombre": "Vino Rosado",
+      "texto": "El vino rosado es aquel que tiene algo del color típico del vino tinto, pero solo lo suficiente como para darle un color rosa, que puede ir del claro al fuerte casi violeta, según las uvas y las técnicas de producción usadas.",
+      "imagen": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/09/13175545/vino-rosado-5.jpg"
+    }
+  ]
+}
